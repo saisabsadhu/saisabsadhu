@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <a href="https://saisab21.github.io"><img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://saisabsadhu.github.io"><img src="https://img.shields.io/badge/Portfolio-1D4ED8?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/saisab-sadhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   &nbsp;
@@ -47,7 +47,7 @@ Biomedical NLP  ·  Epistemic Reliability in LLMs  ·  Adversarial Oversight
 | **Structured Adversarial Synthesis: Multi-Agent Framework for Persuasive Financial Analysis** · *#1 globally* | FinNLP @ EMNLP | 2025 |
 | **Structure-Aware Chunking for Abstractive Summarization of Long Legal Documents** | JustNLP @ IJCAI-AACL | 2025 |
 
-→ Full list with abstracts and BibTeX at **[saisab21.github.io/#publications](https://saisab21.github.io/#publications)**
+→ Full list with abstracts and BibTeX at **[saisabsadhu.github.io/#publications](https://saisabsadhu.github.io/#publications)**
 
 ---
 
@@ -92,15 +92,15 @@ Biomedical NLP  ·  Epistemic Reliability in LLMs  ·  Adversarial Oversight
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=saisab21&show_icons=true&theme=default&hide_border=true&title_color=1d4ed8&icon_color=1d4ed8&text_color=374151&bg_color=fafaf8&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=saisabsadhu&show_icons=true&theme=default&hide_border=true&title_color=1d4ed8&icon_color=1d4ed8&text_color=374151&bg_color=fafaf8&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisab21&layout=compact&hide_border=true&title_color=1d4ed8&text_color=374151&bg_color=fafaf8&langs_count=6" alt="Top Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisabsadhu&layout=compact&hide_border=true&title_color=1d4ed8&text_color=374151&bg_color=fafaf8&langs_count=6" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saisab21&hide_border=true&ring=1d4ed8&fire=1d4ed8&currStreakLabel=1d4ed8&background=fafaf8&currStreakNum=374151&sideNums=374151&sideLabels=9a9690&dates=9a9690" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saisabsadhu&hide_border=true&ring=1d4ed8&fire=1d4ed8&currStreakLabel=1d4ed8&background=fafaf8&currStreakNum=374151&sideNums=374151&sideLabels=9a9690&dates=9a9690" alt="GitHub Streak"/>
 
 </div>
 
